@@ -1,3 +1,5 @@
+import '../styles/navbar.css'
+
 export function Header(){
     return(
     <header>

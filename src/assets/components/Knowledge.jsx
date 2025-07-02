@@ -1,3 +1,5 @@
+import '../styles/knowledge.css';
+
 export function Knowledge(){
     return(
         <section className="knowledge">

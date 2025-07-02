@@ -1,4 +1,5 @@
 import mainImg from "../image/main.jpg"
+import "../styles/topweb.css";
 
 export function Home() {
     return (
