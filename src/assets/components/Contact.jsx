@@ -1,3 +1,5 @@
+import '../styles/contato.css'
+
 export function Contact() {
     return (
         <section id="contact" className="contact-container">

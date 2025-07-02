@@ -2,6 +2,7 @@ import python from "../image/python.png"
 import npm from "../image/npm.png"
 import horaInteligete from "../image/site.png"
 import codeSnap from "../image/site (2).png"
+import "../styles/projetos.css";
 
 export function Projects() {
     return (

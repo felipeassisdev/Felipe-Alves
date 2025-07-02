@@ -22,5 +22,5 @@ body{
     height: 100vh;
     overflow-y: auto;
     color: var(--colorT);
-    background: linear-gradient(135deg, #0a0c10 0%, #161b22 50%, #0a0c10 100%);
+    background: var(--back);
 }
