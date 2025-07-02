@@ -1,17 +1,17 @@
 
-# 💻 Portfólio | Felipe Alves
+# Portfólio | Felipe Alves
 
 Um portfólio pessoal moderno, desenvolvido com **React.js**, totalmente responsivo e estilizado com CSS puro — focado em destacar minhas habilidades, projetos e formas de contato profissional.
 
 ---
 
-## 🖼️ Demonstração
+## Demonstração
 
 > 🔗 (https://felipe-assis.netlify.app)
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Este projeto tem como foco:
 
@@ -22,7 +22,7 @@ Este projeto tem como foco:
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 | Tecnologia     | Descrição                             |
 |----------------|----------------------------------------|
@@ -35,7 +35,7 @@ Este projeto tem como foco:
 
 ---
 
-## 🧱 Estrutura de Componentes
+## Estrutura de Componentes
 
 - `Header.jsx` → Navegação superior com links âncora
 - `Home.jsx` → Seção de introdução (foto + bio)
@@ -47,7 +47,7 @@ Este projeto tem como foco:
 
 ---
 
-## 🎨 Estilo
+## Estilo
 
 - Totalmente responsivo para telas de **428px**, **390px**, **375px**, **768px** e outras.
 - Utiliza variáveis como `--primary-color`, `--text-color`, `--second-color` definidas no CSS.
@@ -60,7 +60,7 @@ background: linear-gradient(135deg, #0a0c10 0%, #161b22 50%, #0a0c10 100%);
 
 ---
 
-## 📦 Como Rodar Localmente
+## Como Rodar Localmente
 
 ```bash
 # Clone o repositório
@@ -80,7 +80,7 @@ npm run dev
 
 ---
 
-## 📲 Contato
+## Contato
 
 Quer colaborar ou trocar uma ideia?
 
@@ -93,7 +93,7 @@ Quer colaborar ou trocar uma ideia?
 
 ---
 
-## 📃 Licença
+## Licença
 
 MIT © [Felipe Alves](https://github.com/felipeassisdev)
 
